@@ -6,7 +6,7 @@
  * main - Entry point
  * Return: 0 (sucess)
  */
-<F11>
+
 int main(void)
 {
 	int n;
